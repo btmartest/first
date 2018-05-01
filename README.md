@@ -1,1 +1,3 @@
-#first
+# first repo
+
+Just learning git.
